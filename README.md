@@ -5,6 +5,9 @@
 
 mongodb/mongoose node/express program that lets you create users, add remove friends of users, create posts (thoughts) for users, and reactions to those thoughts. you can do all crud operations on all 4 types of objects.
 
+walkthrough in insomnia:
+https://drive.google.com/file/d/1Mu5Y7CFQLael0pb459suMIQQh2HRJDmw/view?usp=sharing
+
 ## Table of Contents
 
 * [Installation](#installation)
