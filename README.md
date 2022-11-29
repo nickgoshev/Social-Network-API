@@ -8,6 +8,8 @@ mongodb/mongoose node/express program that lets you create users, add remove fri
 walkthrough in insomnia:
 https://drive.google.com/file/d/1Mu5Y7CFQLael0pb459suMIQQh2HRJDmw/view?usp=sharing
 
+* walkthrough does not show how to start server, but you start server with ```npm start``` in the command line from main directory
+
 ## Table of Contents
 
 * [Installation](#installation)
